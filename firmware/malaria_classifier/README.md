@@ -1,4 +1,3 @@
-:::writing{variant="document" id="63821"}
 # Firmware – On-Device Malaria Cell Classifier
 
 This directory contains the Arduino firmware for deploying the quantized malaria cell classification model on the Seeed Studio XIAO ESP32-S3 Sense.
@@ -36,4 +35,3 @@ This directory contains the Arduino firmware for deploying the quantized malaria
 
 ## Research Disclaimer
 This is an experimental research prototype. It is not clinically validated and must not be used for medical diagnosis.
-:::
