@@ -64,12 +64,13 @@ A measured inference time of approximately 1.83 seconds was observed in an earli
 msc-research-ai-prototype/
 │
 ├── notebooks/
-│   └── malaria_model_training.ipynb
+│   └── On_Device_Malaria_Cell_Classifier_on_the_XIAO_ESP32_S3_Sense.ipynb
 │
 ├── firmware/
 │   └── malaria_classifier/
-│       ├── README.md
-│       └── [Arduino source files]
+│       ├── malaria_detection.ino
+│       ├── malaria_model.h
+│       └── README.md
 │
 ├── docs/
 │   └── DATASET.md
@@ -78,7 +79,8 @@ msc-research-ai-prototype/
 │   └── model_evaluation.md
 │
 ├── README.md
-└── THESIS_LOG.md
+├── THESIS_LOG.md
+└── .gitignore
 ```
 
 ## Research Objectives
