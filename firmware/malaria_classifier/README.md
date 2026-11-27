@@ -9,7 +9,7 @@ This directory contains the Arduino firmware for deploying the quantized malaria
 ## Software Requirements
 - Arduino IDE
 - ESP32 board package by Espressif Systems — version **2.0.17**
-- `TensorFlowLite_ESP32 library — version 1.0.0` library
+- `TensorFlowLite_ESP32 library — version 1.0.0`
 - ESP32 camera support provided by the ESP32 Arduino core
 
 ## Firmware Files
