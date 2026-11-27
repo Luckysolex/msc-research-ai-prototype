@@ -66,6 +66,9 @@ msc-research-ai-prototype/
 ├── notebooks/
 │   └── On_Device_Malaria_Cell_Classifier_on_the_XIAO_ESP32_S3_Sense.ipynb
 │
+├── models/
+│   └── malaria_quant_model.tflite
+│
 ├── firmware/
 │   └── malaria_classifier/
 │       ├── malaria_detection.ino
